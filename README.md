@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dreadtristan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on some of my python projects
 
 
